@@ -43,7 +43,7 @@ Development of onboard and offboard runtime monitoring systems for automated del
 Automated generation of executable test cases from formalized system requirements using model checking, including extensions integrated with the ANSYS SCADE development environment.
 
 **Formal Verification of Automotive System Functions (2018–2020)**  
-Verification of safety-critical automotive functions, including speed estimation and exhaust gas after-treatment, against legal and NCAP requirements through model checking, tolerance analysis of abstract algorithmic models, and systematic test-case derivation.
+Verification of safety-critical automotive functions, including *speed estimation* and *exhaust gas after-treatment*, against legal and NCAP requirements through model checking, tolerance analysis of abstract algorithmic models, and systematic test-case derivation.
 
 ---
 
