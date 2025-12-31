@@ -1,7 +1,13 @@
 # Adina Aniculaesei
 
 **Postdoctoral Researcher in Formal Methods and Dependable Autonomous Systems**  
-University of Gothenburg & Chalmers University of Technology
+University of Gothenburg and Chalmers University of Technology
+
+- [About Me](#about-me)
+- [Research Projects](#research-projects)
+- [Publications](#publications)
+- [Teaching and Supervision](#teaching-and-supervision)
+- [Community Service](#community-service)
 
 ---
 
@@ -30,7 +36,7 @@ Research on decentralized coordination mechanisms and the automated generation o
 **Methods for the ODD Specification (2022–2024)**
 Design of a YAML-based ODD specification language and automated consistency checking using SMT solvers, bridging requirements analysis, formal modeling, and verification for industrial automated driving systems.
 
-**LogiSmile: last-mile logistics for autonomous goods delivery (2022–2024)**
+**LogiSmile: Last-Mile Logistics for Autonomous Goods Delivery (2022–2024)**
 Design and development of an integrated autonomous delivery system for urban environments, combining automated hub vehicles acting as mobile depots with autonomous delivery robots for last-mile logistics.
 
 **Mobil-e-Hub (2020–2023)**
@@ -102,7 +108,7 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 
 - C. Lemardelé, A. Baldó, **A. Aniculaesei**, A. Rausch, et al.  
   *The LogiSmile Project: Piloting Autonomous Vehicles for Last-Mile Logistics in European Cities.*  
-  In **Conference on Transport Engineering (CIT 2023)**, *Transportation Research Procedia*, 71(6), 2023.  
+  In **Conference on Transport Engineering (CIT 2023)**, **Transportation Research Procedia**, 71(6), 2023.  
   DOI: https://doi.org/10.1016/j.trpro.2023.11.073
 
 ---
@@ -221,7 +227,7 @@ A complete publication list is available via [Google Scholar](https://scholar.go
   Seminar size: 10 students.
 
 - **Informatik I** (Winter 2019/2020)  
-  Teaching assistant in an introductory computer science course. Designed and supervised of exercises and delivered lectures in the professor’s absence, covering algorithms and data structures, Boolean algebra, computer architecture, imperative programming in C, and functional programming in F#.  
+  Teaching assistant in an introductory computer science course. Designed and supervised exercises and delivered lectures in the professor’s absence, covering algorithms and data structures, Boolean algebra, computer architecture, imperative programming in C, and functional programming in F#.  
   Course size: 65 students.
 
 - **Proseminar / Hauptseminar: KI-Systeme und deren Absicherung** (Summer 2019)  
@@ -321,7 +327,8 @@ A complete publication list is available via [Google Scholar](https://scholar.go
   *Autonomous Vehicles and Urban Evolution: Technological, Social and Environmental Perspectives*.
 - Reviewer, *Technologies* (MDPI), Special Issue:  
   *Emerging Paradigms in AI, Autonomous Systems, and Intelligent Technologies*.
-- Reviewer, *Leveraging Applications of Formal Methods, Verification and Validation* — REoCAS Colloquium in Honor of Rocco De Nicola.
+- Reviewer, *Leveraging Applications of Formal Methods, Verification and Validation*
+(REoCAS Colloquium in Honor of Rocco De Nicola).
 - Program Committee Member, *MoDeVVa @ MODELS 2025*.
 
 ---
