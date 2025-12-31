@@ -179,6 +179,63 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 
 ## Teaching and Supervision
 
+### University of Gothenburg & Chalmers University of Technology
+
+- **Introduction to Programming in Python** (Winter 2025/2026)  
+  Teaching assistant in an introductory programming course. Supervision of laboratory sessions focused on algorithmic reasoning, systematic debugging, and writing clean, maintainable code.  
+  Course size: ~100 students.
+
+- **Object-Oriented Programming Projects** (Winter 2025/2026)  
+  Teaching assistant in a large project-based course on object-oriented software development. Supervision of student teams through the design, iterative development, and implementation of substantial software systems, emphasizing design patterns, modular architecture, version-controlled collaboration, and agile development practices (SCRUM-style workflows).  
+  Course size: 137 students.
+
+- **Research Methods for Data Science** (Winter 2025/2026)  
+  Teaching assistant in a course on scientific writing and research methodology. Supervision of student groups developing master’s thesis proposals, including literature review, problem formulation, concept design, and project planning. Delivered a dedicated lecture on effective strategies for scientific literature search.  
+  Course size: 121 students.
+
+- **Fundamentals of Program Development** (Winter 2025/2026)  
+  Teaching assistant in an introductory programming course using Python. Supervised laboratory sessions and two larger software projects (word-frequency analysis and an artillery game simulation), with emphasis on algorithmic thinking, debugging, and structured testing.  
+  Course size: DAT555 (Industrial Economics) – 137 students; TDA548 (Software Engineering) – 116 students.
+
+- **Object-Oriented Applications** (Winter 2024–2025)  
+  Teaching assistant in a project-based course on object-oriented software development. Supervision of student teams designing and implementing distributed chat systems, emphasizing modular architecture, design patterns, and iterative development.  
+  Course size: 50 students.
+
+---
+
+### TU Clausthal
+
+- **Connected and Autonomous Automotive Engineering** (Winter 2023/2024)  
+  Co-developed and taught lectures and exercises on system dependability, runtime monitoring, and assurance of AI-based autonomous driving systems, with emphasis on the training, validation and testing process of the AI-based driving system.  
+  Course size: 35 students.
+
+- **Informatikwerkstatt** (Winter 2023/2024)  
+  Delivered lectures introducing first-year students to programming fundamentals and teamwork-based software projects through in-class hands-on exercises.  
+  Course size: 40 students.
+
+- **Architecture and Verification – Proseminar / Hauptseminar** (Winter 2020/2021)  
+  Supervised a seminar on software architecture, model checking, and verification techniques for cyber-physical systems.  
+  Seminar size: 10 students.
+
+- **Informatik I** (Winter 2019/2020)  
+  Teaching assistant in an introductory computer science course. Designed and supervised exercises and delivered lectures in the professor’s absence, covering algorithms and data structures, Boolean algebra, computer architecture, imperative programming in C, and functional programming in F#.  
+  Course size: 65 students.
+
+- **Proseminar / Hauptseminar: KI-Systeme und deren Absicherung** (Summer 2019)  
+  Supervised a seminar on AI systems and their assurance, guiding students in technical reading, research analysis, scientific writing, and peer review.  
+  Seminar size: 15 students.
+
+- **Software Systems Engineering** (2017–2019)  
+  Developed and delivered lectures and exercises on formal verification with model checking, software architecture analysis, and dependable software design for safety-critical systems.  
+  Course size: 60 students.
+
+- **Seminar: Dependability and Trust – Methoden und Techniken zur Softwareverläßlichkeit** (Summer 2014)  
+  Led a seminar on methods and techniques for software reliability, focusing on literature review, critical discussion, and structured research presentation.  
+  Seminar size: 20 students.
+
+- **Softwaretechnik II** (Summer 2012)  
+  Led exercises on object-oriented software design and implementation in Java, emphasizing modularity, code quality, and testable design.  
+  Course size: 55 students.
 
 
 ---
