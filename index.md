@@ -304,3 +304,36 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 
 
 ## Community Service
+
+### 2026
+
+- Reviewer, *Journal of Systems and Software*.
+
+---
+
+### 2025
+
+- Reviewer, *Reliability Engineering & System Safety*.
+- Reviewer, *Signal, Image and Video Processing* (Springer Nature).
+- Reviewer, *Technologies* (MDPI).
+- Reviewer, *Electronics* (MDPI), Special Issue: *Advances in Autonomous Vehicular Networks*.
+- Reviewer, *Future Transportation* (MDPI), Special Issue:  
+  *Autonomous Vehicles and Urban Evolution: Technological, Social and Environmental Perspectives*.
+- Reviewer, *Technologies* (MDPI), Special Issue:  
+  *Emerging Paradigms in AI, Autonomous Systems, and Intelligent Technologies*.
+- Reviewer, *Leveraging Applications of Formal Methods, Verification and Validation* — REoCAS Colloquium in Honor of Rocco De Nicola.
+- Program Committee Member, *MoDeVVa @ MODELS 2025*.
+
+---
+
+### 2024
+
+- Reviewer, *Innovations in Systems and Software Engineering*.
+
+---
+
+### Earlier
+
+- Program Committee Member, *MoDeVVa @ MODELS* (2020–2023).
+- Subreviewer, *International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS)*, 2017.
+- Subreviewer, *Australasian Computer Science Week (ACSW)*, 2016.
