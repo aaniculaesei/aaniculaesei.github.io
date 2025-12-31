@@ -183,23 +183,25 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 ### University of Gothenburg & Chalmers University of Technology
 
 - **Introduction to Programming in Python** (Winter 2025/2026)  
-  Teaching assistant in an introductory programming course. Supervision of laboratory sessions focused on algorithmic reasoning, systematic debugging, and writing clean, maintainable code.  
+  Teaching assistant in an introductory programming course. Supervised laboratory sessions focused on algorithmic reasoning, systematic debugging, and writing clean, maintainable code.  
   Course size: ~100 students.
 
 - **Object-Oriented Programming Projects** (Winter 2025/2026)  
-  Teaching assistant in a large project-based course on object-oriented software development. Supervision of student teams through the design, iterative development, and implementation of substantial software systems, emphasizing design patterns, modular architecture, version-controlled collaboration, and agile development practices (SCRUM-style workflows).  
+  Teaching assistant in a large project-based course on object-oriented software development. Supervised student teams through the design, iterative development, and implementation of substantial software systems, emphasizing design patterns, modular architecture, version-controlled collaboration, and agile development practices (SCRUM-style workflows).  
   Course size: 137 students.
 
 - **Research Methods for Data Science** (Winter 2025/2026)  
-  Teaching assistant in a course on scientific writing and research methodology. Supervision of student groups developing master’s thesis proposals, including literature review, problem formulation, concept design, and project planning. Delivered a dedicated lecture on effective strategies for scientific literature search.  
+  Teaching assistant in a course on scientific writing and research methodology. Supervised student groups developing master’s thesis proposals, including literature review, problem formulation, concept design, and project planning. Delivered a dedicated lecture on effective strategies for scientific literature search.  
   Course size: 121 students.
 
 - **Fundamentals of Program Development** (Winter 2025/2026)  
   Teaching assistant in an introductory programming course using Python. Supervised laboratory sessions and two larger software projects (word-frequency analysis and an artillery game simulation), with emphasis on algorithmic thinking, debugging, and structured testing.  
-  Course size: DAT555 (Industrial Economics) – 137 students; TDA548 (Software Engineering) – 116 students.
+  Course size:
+  – DAT555 (Industrial Economics): 137 students  
+  – TDA548 (Software Engineering): 116 students
 
 - **Object-Oriented Applications** (Winter 2024–2025)  
-  Teaching assistant in a project-based course on object-oriented software development. Supervision of student teams designing and implementing distributed chat systems, emphasizing modular architecture, design patterns, and iterative development.  
+  Teaching assistant in a project-based course on object-oriented software development. Supervised student teams designing and implementing distributed chat systems, emphasizing modular architecture, design patterns, and iterative development.  
   Course size: 50 students.
 
 ---
@@ -207,8 +209,8 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 ### TU Clausthal
 
 - **Connected and Autonomous Automotive Engineering** (Winter 2023/2024)  
-  Co-developed and taught lectures and exercises on system dependability, runtime monitoring, and assurance of AI-based autonomous driving systems, with emphasis on the training, validation and testing process of the AI-based driving system.  
-  Course size: 35 students.
+  Co-developed and taught lectures and exercises on system dependability, runtime monitoring, and assurance of AI-based autonomous driving systems, with emphasis on the training, validation, and testing of AI-based driving systems.  
+  Course size: 16 students.
 
 - **Informatikwerkstatt** (Winter 2023/2024)  
   Delivered lectures introducing first-year students to programming fundamentals and teamwork-based software projects through in-class hands-on exercises.  
@@ -219,7 +221,7 @@ A complete publication list is available via [Google Scholar](https://scholar.go
   Seminar size: 10 students.
 
 - **Informatik I** (Winter 2019/2020)  
-  Teaching assistant in an introductory computer science course. Designed and supervised exercises and delivered lectures in the professor’s absence, covering algorithms and data structures, Boolean algebra, computer architecture, imperative programming in C, and functional programming in F#.  
+  Teaching assistant in an introductory computer science course. Designed and supervised of exercises and delivered lectures in the professor’s absence, covering algorithms and data structures, Boolean algebra, computer architecture, imperative programming in C, and functional programming in F#.  
   Course size: 65 students.
 
 - **Proseminar / Hauptseminar: KI-Systeme und deren Absicherung** (Summer 2019)  
@@ -230,8 +232,8 @@ A complete publication list is available via [Google Scholar](https://scholar.go
   Developed and delivered lectures and exercises on formal verification with model checking, software architecture analysis, and dependable software design for safety-critical systems.  
   Course size: 60 students.
 
-- **Seminar: Dependability and Trust – Methoden und Techniken zur Softwareverläßlichkeit** (Summer 2014)  
-  Led a seminar on methods and techniques for software reliability, focusing on literature review, critical discussion, and structured research presentation.  
+- **Seminar: Dependability and Trust – Methoden und Techniken zur Softwareverlässlichkeit** (Summer 2014)  
+  Supervised a seminar on methods and techniques for software reliability, focusing on literature review, critical discussion, and structured research presentation.  
   Seminar size: 20 students.
 
 - **Softwaretechnik II** (Summer 2012)  
