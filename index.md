@@ -62,17 +62,17 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 - **A. Aniculaesei**, I. Aslam, M. Zhang, A. Buragohain, A. Vorwald, A. Rausch.  
   *Improving Safety of Autonomous Vehicles: A Verifiable Method for Graceful Degradation of Decision and Control Responsibilities.*  
   **SAE International Journal of Connected and Automated Vehicles**, 8(2), 2025.  
-  DOI: https://doi.org/10.4271/12-08-02-0021
+  DOI: [10.4271/12-08-02-0021](https://doi.org/10.4271/12-08-02-0021)
 
 - **A. Aniculaesei**, Y. Elhajji.  
   *Runtime Monitoring Approach to Safeguard Behavior of Autonomous Vehicles at Traffic Lights.*  
   **Electronics**, 14, Article 2366, 2025.  
-  DOI: https://doi.org/10.3390/electronics14122366
+  DOI: [10.3390/electronics14122366](https://doi.org/10.3390/electronics14122366)
 
 - **A. Aniculaesei**.  
   *Engineering of Safety in Automated Safety-Critical Systems through Design-time Verification and Runtime Validation of Environment Assumptions.*  
   PhD thesis, Technische Universität Clausthal, 2025.  
-  DOI: https://doi.org/10.21268/20250509-0
+  DOI: [10.21268/20250509-0](https://doi.org/10.21268/20250509-0)
 
 ---
 
@@ -81,12 +81,12 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 - M. Urban, **A. Aniculaesei**, A. Rausch.  
   *AI-Driven Runtime Monitoring of Energy Consumption in Autonomous Delivery Drones.*  
   In **Intelligent Systems Conference (IntelliSys 2023)**, LNNS 825, Springer, 2024.  
-  DOI: https://doi.org/10.1007/978-3-031-47718-8_19 
+  DOI: [10.1007/978-3-031-47718-8_19 ](https://doi.org/10.1007/978-3-031-47718-8_19) 
 
 - I. Aslam, **A. Aniculaesei**, A. Buragohain, D. Bamal, A. Rausch.  
   *Runtime Safety Assurance of Autonomous Vehicles Used for Last-Mile Delivery in Urban Environments.*  
   In **Next Chapter in Mobility**, Springer Gabler, 2024.  
-  DOI: https://doi.org/10.1007/978-3-658-42647-7_27
+  DOI: [10.1007/978-3-658-42647-7_27](https://doi.org/10.1007/978-3-658-42647-7_27)
 
 - I. Aslam, A. Buragohain, D. Bamal, **A. Aniculaesei**, M. Zhang, A. Rausch.  
   *A Method for the Runtime Validation of AI-Based Environment Perception in Automated Driving Systems.*  
@@ -99,17 +99,17 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 - **A. Aniculaesei**, C. Schindler, C. Knieke, A. Rausch.  
   *A Method for ODD Specification and Verification with Application for Industrial Automated Driving Systems.*  
   In **2023 International Conference on Computational Science and Computational Intelligence (CSCI’23)**, Las Vegas, USA, 2023.  
-  DOI: https://doi.org/10.1109/CSCI62032.2023.00251
+  DOI: [10.1109/CSCI62032.2023.00251](https://doi.org/10.1109/CSCI62032.2023.00251)
 
 - **A. Aniculaesei**, I. Aslam, D. Bamal, F. Helsch, A. Vorwald, M. Zhang, A. Rausch.  
   *Connected Dependability Cage Approach for Safe Automated Driving.*  
   In **International Stuttgart Symposium**, 2023.  
-  DOI: https://doi.org/10.1007/978-3-658-42048-2_1
+  DOI: [10.1007/978-3-658-42048-2_1](https://doi.org/10.1007/978-3-658-42048-2_1)
 
 - C. Lemardelé, A. Baldó, **A. Aniculaesei**, A. Rausch, et al.  
   *The LogiSmile Project: Piloting Autonomous Vehicles for Last-Mile Logistics in European Cities.*  
   In **Conference on Transport Engineering (CIT 2023)**, **Transportation Research Procedia**, 71(6), 2023.  
-  DOI: https://doi.org/10.1016/j.trpro.2023.11.073
+  DOI: [10.1016/j.trpro.2023.11.073](https://doi.org/10.1016/j.trpro.2023.11.073)
 
 ---
 
@@ -118,7 +118,7 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 - M. T. Ailane, **A. Aniculaesei**, C. Knieke, A. Rausch, F. Sholichin.  
   *Towards Specification Completion for Systems with Emergent Behavior Based on DevOps.*  
   In **2022 International Conference on Computational Science and Computational Intelligence (CSCI’22)**, 2022.  
-  DOI: https://doi.org/10.1109/CSCI58124.2022.00330
+  DOI: [10.1109/CSCI58124.2022.00330](https://doi.org/10.1109/CSCI58124.2022.00330)
 
 ---
 
@@ -127,7 +127,7 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 - **A. Aniculaesei**, A. Vorwald, M. Zhang, A. Rausch.  
   *Architecture-Based Hybrid Approach to Verify Safety-Critical Automotive System Functions by Combining Data-Driven and Formal Methods.*  
   In **18th IEEE International Conference on Software Architecture Companion (ICSA-C 2021)**, Stuttgart, Germany, 2021.  
-  DOI: https://doi.org/10.1109/ICSA-C52384.2021.00036
+  DOI: [10.1109/ICSA-C52384.2021.00036](https://doi.org/10.1109/ICSA-C52384.2021.00036)
 
 ---
 
@@ -136,7 +136,7 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 - J. Toennemann, **A. Aniculaesei**, A. Rausch.  
   *Asserting Functional Equivalence Between C Code and SCADE Models in Code-to-Model Transformations.*  
   In **5th Brazilian Symposium on Systematic and Automated Software Testing (SAST)**, Natal, Brazil, 2020.  
-  DOI: https://doi.org/10.1145/3425174.3425213
+  DOI: [10.1145/3425174.3425213](https://doi.org/10.1145/3425174.3425213)
 
 - **A. Aniculaesei**, M. Zhang, A. Rausch.  
   *Data-Driven Approach for Accurate Estimation and Validation of Ego-Vehicle Speed.*  
@@ -149,7 +149,7 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 - **A. Aniculaesei**, A. Vorwald, A. Rausch.  
   *Using the SCADE Toolchain to Generate Requirements-Based Test Cases for an Adaptive Cruise Control System.*  
   In **ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C 2019)**, Munich, Germany, 2019.  
-  DOI: https://doi.org/10.1109/MODELS-C.2019.00079
+  DOI: [10.1109/MODELS-C.2019.00079](https://doi.org/10.1109/MODELS-C.2019.00079)
 
 - **A. Aniculaesei**, J. Grieser, A. Rausch, K. Rehfeldt, T. Warnecke.  
   *Graceful Degradation of Decision and Control Responsibility for Autonomous Systems Based on Dependability Cages.*  
@@ -166,12 +166,12 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 - **A. Aniculaesei**, J. Grieser, A. Rausch, K. Rehfeldt, T. Warnecke.  
   *Towards a Holistic Software Systems Engineering Approach for Dependable Autonomous Systems.*  
   In **IEEE/ACM 40th International Conference on Software Engineering: Companion Proceedings (ICSE-C 2018)**, Gothenburg, Sweden, 2018.  
-  DOI: https://doi.org/10.1145/3194085.3194091
+  DOI: [10.1145/3194085.3194091](https://doi.org/10.1145/3194085.3194091)
 
 - **A. Aniculaesei**, F. Howar, P. Denecke, A. Rausch.  
   *Automated Generation of Requirements-Based Test Cases for an Adaptive Cruise Control System.*  
   In **IEEE Workshop on Validation, Analysis and Evolution of Software Tests**, Campobasso, Italy, 2018.  
-  DOI: https://doi.org/10.1109/VST.2018.8327150
+  DOI: [10.1109/VST.2018.8327150](https://doi.org/10.1109/VST.2018.8327150)
 
 ---
 
@@ -180,7 +180,7 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 - **A. Aniculaesei**, D. Arnsberger, F. Howar, A. Rausch.  
   *Towards the Verification of Safety-Critical Autonomous Systems in Dynamic Environments.*  
   In **1st International Workshop on Verification and Validation of Cyber-Physical Systems (V2CPS 2016)**, Reykjavik, Iceland, 2016.  
-  DOI: https://doi.org/10.4204/EPTCS.232.10
+  DOI: [10.4204/EPTCS.232.10](https://doi.org/10.4204/EPTCS.232.10)
 
 ---
 
