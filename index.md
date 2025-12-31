@@ -27,19 +27,19 @@ Research on decentralized coordination mechanisms and the automated generation o
 
 ### Previous Projects
 
-**Methods for the ODD Specification (2022-2024)**
+**Methods for the ODD Specification (2022–2024)**
 Design of a YAML-based ODD specification language and automated consistency checking using SMT solvers, bridging requirements analysis, formal modeling, and verification for industrial automated driving systems.
 
-**LogiSmile: Last mile logistics for autonomous goods delivery (2022-2024)**
+**LogiSmile: last-mile logistics for autonomous goods delivery (2022–2024)**
 Design and development of an integrated autonomous delivery system for urban environments, combining automated hub vehicles acting as mobile depots with autonomous delivery robots for last-mile logistics.
 
-**Mobil-e-Hub (2020-2023)**
+**Mobil-e-Hub (2020–2023)**
 Development of last-mile logistics concepts that combine autonomous drones with electric vehicles serving as mobile hubs, enabling flexible delivery scenarios integrated with passenger mobility systems.
 
-**VanAssist (2019-2021)**
+**VanAssist (2019–2021)**
 Development of onboard and offboard runtime monitoring systems for automated delivery vehicles operating on company premises and in urban environments, supporting dependable autonomous operation.
 
-**Automated Test Case Generation 1.0 & 2.0 (2018-2021)**
+**Automated Test Case Generation 1.0 & 2.0 (2018–2021)**
 Automated generation of executable test cases from formalized system requirements using model checking, including extensions integrated with the ANSYS SCADE development environment.
 
 **Formal Verification of Automotive System Functions (2018–2020)**  
@@ -49,8 +49,133 @@ Verification of safety-critical automotive functions, including *speed estimatio
 
 ## Publications
 
+A complete publication list is available via [Google Scholar](https://scholar.google.com/citations?user=ZBBinKwAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Adina_Aniculaesei).
+
+### 2025
+
+- **A. Aniculaesei**, I. Aslam, M. Zhang, A. Buragohain, A. Vorwald, A. Rausch.  
+  *Improving Safety of Autonomous Vehicles: A Verifiable Method for Graceful Degradation of Decision and Control Responsibilities.*  
+  **SAE International Journal of Connected and Automated Vehicles**, 8(2), 2025.  
+  DOI: https://doi.org/10.4271/12-08-02-0021
+
+- **A. Aniculaesei**, Y. Elhajji.  
+  *Runtime Monitoring Approach to Safeguard Behavior of Autonomous Vehicles at Traffic Lights.*  
+  **Electronics**, 14, Article 2366, 2025.  
+  DOI: https://doi.org/10.3390/electronics14122366
+
+- **A. Aniculaesei**.  
+  *Engineering of Safety in Automated Safety-Critical Systems through Design-time Verification and Runtime Validation of Environment Assumptions.*  
+  PhD thesis, Technische Universität Clausthal, 2025.  
+  DOI: https://doi.org/10.21268/20250509-0
 
 ---
+
+### 2024
+
+- M. Urban, **A. Aniculaesei**, A. Rausch.  
+  *AI-Driven Runtime Monitoring of Energy Consumption in Autonomous Delivery Drones.*  
+  In **Intelligent Systems Conference (IntelliSys 2023)**, LNNS 825, Springer, 2024.  
+  DOI: https://doi.org/10.1007/978-3-031-47718-8_19 
+
+- I. Aslam, **A. Aniculaesei**, A. Buragohain, D. Bamal, A. Rausch.  
+  *Runtime Safety Assurance of Autonomous Vehicles Used for Last-Mile Delivery in Urban Environments.*  
+  In **Next Chapter in Mobility**, Springer Gabler, 2024.  
+  DOI: https://doi.org/10.1007/978-3-658-42647-7_27
+
+- I. Aslam, A. Buragohain, D. Bamal, **A. Aniculaesei**, M. Zhang, A. Rausch.  
+  *A Method for the Runtime Validation of AI-Based Environment Perception in Automated Driving Systems.*  
+  In **16th International Conference on Adaptive and Self-Adaptive Systems and Applications (ADAPTIVE 2024)**, pp. 17–25, IARIA, Venice, Italy, 2024.
+
+---
+
+### 2023
+
+- **A. Aniculaesei**, C. Schindler, C. Knieke, A. Rausch.  
+  *A Method for ODD Specification and Verification with Application for Industrial Automated Driving Systems.*  
+  In **2023 International Conference on Computational Science and Computational Intelligence (CSCI’23)**, Las Vegas, USA, 2023.  
+  DOI: https://doi.org/10.1109/CSCI62032.2023.00251
+
+- **A. Aniculaesei**, I. Aslam, D. Bamal, F. Helsch, A. Vorwald, M. Zhang, A. Rausch.  
+  *Connected Dependability Cage Approach for Safe Automated Driving.*  
+  In **International Stuttgart Symposium**, 2023.  
+  DOI: https://doi.org/10.1007/978-3-658-42048-2_1
+
+- C. Lemardelé, A. Baldó, **A. Aniculaesei**, A. Rausch, et al.  
+  *The LogiSmile Project: Piloting Autonomous Vehicles for Last-Mile Logistics in European Cities.*  
+  In **Conference on Transport Engineering (CIT 2023)**, *Transportation Research Procedia*, 71(6), 2023.  
+  DOI: https://doi.org/10.1016/j.trpro.2023.11.073
+
+---
+
+### 2022
+
+- M. T. Ailane, **A. Aniculaesei**, C. Knieke, A. Rausch, F. Sholichin.  
+  *Towards Specification Completion for Systems with Emergent Behavior Based on DevOps.*  
+  In **2022 International Conference on Computational Science and Computational Intelligence (CSCI’22)**, 2022.  
+  DOI: https://doi.org/10.1109/CSCI58124.2022.00330
+
+---
+
+### 2021
+
+- **A. Aniculaesei**, A. Vorwald, M. Zhang, A. Rausch.  
+  *Architecture-Based Hybrid Approach to Verify Safety-Critical Automotive System Functions by Combining Data-Driven and Formal Methods.*  
+  In **18th IEEE International Conference on Software Architecture Companion (ICSA-C 2021)**, Stuttgart, Germany, 2021.  
+  DOI: https://doi.org/10.1109/ICSA-C52384.2021.00036
+
+---
+
+### 2020
+
+- J. Toennemann, **A. Aniculaesei**, A. Rausch.  
+  *Asserting Functional Equivalence Between C Code and SCADE Models in Code-to-Model Transformations.*  
+  In **5th Brazilian Symposium on Systematic and Automated Software Testing (SAST)**, Natal, Brazil, 2020.  
+  DOI: https://doi.org/10.1145/3425174.3425213
+
+- **A. Aniculaesei**, M. Zhang, A. Rausch.  
+  *Data-Driven Approach for Accurate Estimation and Validation of Ego-Vehicle Speed.*  
+  In **15th International Conference on Systems**, Lisbon, Portugal, 2020. ISBN: 978-1-61208-771-9
+
+---
+
+### 2019
+
+- **A. Aniculaesei**, A. Vorwald, A. Rausch.  
+  *Using the SCADE Toolchain to Generate Requirements-Based Test Cases for an Adaptive Cruise Control System.*  
+  In **ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C 2019)**, Munich, Germany, 2019.  
+  DOI: https://doi.org/10.1109/MODELS-C.2019.00079
+
+- **A. Aniculaesei**, J. Grieser, A. Rausch, K. Rehfeldt, T. Warnecke.  
+  *Graceful Degradation of Decision and Control Responsibility for Autonomous Systems Based on Dependability Cages.*  
+  In **International Symposium on Future Active Safety Technology toward Zero Accidents (FAST-Zero 2019)**, Blacksburg, Virginia, USA, 2019.
+
+- **A. Aniculaesei**, A. Vorwald, A. Rausch.  
+  *Automated Generation of Requirements-Based Test Cases for an Automotive Function Using the SCADE Toolchain.*  
+  In **11th International Conference on Adaptive and Self-Adaptive Systems and Applications (ADAPTIVE 2019)**, Venice, Italy, 2019. ISBN: 978-1-61208-706-1
+
+---
+
+### 2018
+
+- **A. Aniculaesei**, J. Grieser, A. Rausch, K. Rehfeldt, T. Warnecke.  
+  *Towards a Holistic Software Systems Engineering Approach for Dependable Autonomous Systems.*  
+  In **IEEE/ACM 40th International Conference on Software Engineering: Companion Proceedings (ICSE-C 2018)**, Gothenburg, Sweden, 2018.  
+  DOI: https://doi.org/10.1145/3194085.3194091
+
+- **A. Aniculaesei**, F. Howar, P. Denecke, A. Rausch.  
+  *Automated Generation of Requirements-Based Test Cases for an Adaptive Cruise Control System.*  
+  In **IEEE Workshop on Validation, Analysis and Evolution of Software Tests**, Campobasso, Italy, 2018.  
+  DOI: https://doi.org/10.1109/VST.2018.8327150
+
+---
+
+### 2016
+
+- **A. Aniculaesei**, D. Arnsberger, F. Howar, A. Rausch.  
+  *Towards the Verification of Safety-Critical Autonomous Systems in Dynamic Environments.*  
+  In **1st International Workshop on Verification and Validation of Cyber-Physical Systems (V2CPS 2016)**, Reykjavik, Iceland, 2016.  
+  DOI: https://doi.org/10.4204/EPTCS.232.10
+
 
 ## Teaching and Supervision
 
