@@ -176,6 +176,7 @@ A complete publication list is available via [Google Scholar](https://scholar.go
   In **1st International Workshop on Verification and Validation of Cyber-Physical Systems (V2CPS 2016)**, Reykjavik, Iceland, 2016.  
   DOI: https://doi.org/10.4204/EPTCS.232.10
 
+---
 
 ## Teaching and Supervision
 
@@ -237,7 +238,67 @@ A complete publication list is available via [Google Scholar](https://scholar.go
   Led exercises on object-oriented software design and implementation in Java, emphasizing modularity, code quality, and testable design.  
   Course size: 55 students.
 
-
 ---
+
+### Supervised Theses and Student Projects
+
+- **Johanna Edh**, **Aurora Veldhuis**  
+  *AI-Powered Behavioral Analysis of Vehicle Communication to Strengthen API Security.*  
+  Master’s Thesis, Gothenburg, June 2025.
+
+- **Anthony Okala**  
+  *Development of an End-to-End Learning Approach for the Autonomous Control of Drones.*  
+  Master’s Thesis, TU Clausthal, March 2024.  
+  (German: *Entwicklung eines End-to-End Learning Ansatzes für die autonome Steuerung von Drohnen*)
+
+- **Yousri Elhajji**  
+  *Development of a Concept for Runtime Monitoring of the Behavior of an Autonomous Vehicle at Traffic Lights.*  
+  Bachelor’s Thesis, April 2024.  
+  (German: *Entwicklung eines Konzeptes zur Laufzeitabsicherung des Verhaltens eines autonomen Fahrzeugs an der Verkehrsampel*)
+
+- **Yousri Elhajji**  
+  *Design of a Theoretical Concept to Ensure Timely Stopping at Red Traffic Lights.*  
+  Bachelor’s Project, 2023.  
+  (German: *Entwurf eines theoretischen Konzeptes zur Absicherung des rechtzeitigen Stoppens an roten Verkehrsampeln*)
+
+- **Anthony Okala**  
+  *Literature Study on the System Development Process and Safeguarding of Safety-Critical Systems.*  
+  Master’s Project, TU Clausthal, 2021.  
+  (German: *Literaturstudie zum Systementwicklungsprozess und zur Absicherung sicherheitskritischer Systeme*)
+
+- **Vera Stein**  
+  *Predicting the Turning Behavior of Other Road Users Using Statistical Methods.*  
+  Bachelor’s Thesis, TU Clausthal, 2021.  
+  (German: *Vorhersage des Abbiegeverhaltens anderer Verkehrsteilnehmer mit statistischen Verfahren*)
+
+- **Jan Toennemann**  
+  *Evaluation of a Tool Chain for Model-Based Development with Automated Requirements-Based Test Case Generation.*  
+  Master’s Thesis, TU Clausthal, 2020.  
+  (German: *Evaluation einer Toolkette zur modellbasierten Entwicklung mit automatisierter Testfallgenerierung basierend auf Anforderungen*)
+
+- **Andreas Vorwald**  
+  *Formal Verification of Reactive Systems Using the Example of a Vehicle Function.*  
+  Master’s Thesis, TU Clausthal, 2020.  
+  (German: *Formale Verifikation reaktiver Systeme am Beispiel einer Fahrzeugfunktion*)
+
+- **Andreas Vorwald**  
+  *Requirements-Based Test Case Generation for an ACC System Using the SCADE Toolchain.*  
+  Master’s Project, TU Clausthal, 2019.  
+  (German: *Anforderungsbasierte Testfallgenerierung für ein ACC-System mit Hilfe der SCADE-Toolkette*)
+
+- **Jan Toennemann**  
+  *Modeling and Formal Verification of Reactive Systems Using the Example of a Vehicle Function.*  
+  Research Track Project, TU Clausthal, 2019.  
+  (German: *Modellierung und formale Verifikation reaktiver Systeme am Beispiel einer Fahrzeugfunktion*)
+
+- **Peer Denecke**  
+  *Generation of Requirements-Based Test Cases for an Adaptive Cruise Control System.*  
+  Research Track Project, TU Clausthal, 2017.
+
+- **Daniel Arnsberger**  
+  *Ensuring the Functionality of a Service Robot Using an iServeU Scenario.*  
+  Research Track Project, TU Clausthal, 2016.  
+  (German: *Sicherstellung der Funktionalität eines Serviceroboters am Beispiel eines iServeU-Szenarios*)
+
 
 ## Community Service
