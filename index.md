@@ -33,7 +33,7 @@ Development of methods for adaptive safety control in autonomous systems that in
 **SynTM – Synthesis of Teamwork Multi-Agent Systems (2024–present)**  
 Research on decentralized coordination mechanisms and the automated generation of ROS 2 programs from formal agent models, with a focus on dependable and scalable multi-robot systems.
 
-### Previous Projects
+### Previous Projects (selection)
 
 **Methods for the ODD Specification (2022–2024)**
 Design of a YAML-based ODD specification language and automated consistency checking using SMT solvers, bridging requirements analysis, formal modeling, and verification for industrial automated driving systems.
@@ -55,7 +55,7 @@ Verification of safety-critical automotive functions, including *speed estimatio
 
 ---
 
-## Publications
+## Publications (selection)
 
 A complete publication list is available via [Google Scholar](https://scholar.google.com/citations?user=ZBBinKwAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Adina_Aniculaesei), and [ORCID](https://orcid.org/0009-0001-9563-4000).
 
