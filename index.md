@@ -19,7 +19,7 @@ My research lies at the intersection of software engineering and formal methods 
 
 In my [doctoral work (PhD thesis)](https://doi.org/10.21268/20250509-0), I introduced a methodology for engineering safety in automated safety-critical systems through the explicit specification, design-time verification, and runtime validation of environment assumptions, integrated seamlessly into the software development lifecycle.
 
-[Download CV (PDF)](/curriculum-vitae/Adina-Aniculaesei_CV.pdf)
+[Download CV (PDF)](/curriculum-vitae/Adina-Aniculaesei_CV_2026.pdf)
 
 ---
 
