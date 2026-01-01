@@ -346,3 +346,8 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 - Program Committee Member, *MoDeVVa @ MODELS* (2020–2023).
 - Subreviewer, *International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS)*, 2017.
 - Subreviewer, *Australasian Computer Science Week (ACSW)*, 2016.
+
+
+---
+
+_Last updated: January 2026_
