@@ -19,6 +19,8 @@ My research lies at the intersection of software engineering and formal methods 
 
 In my [doctoral work (PhD thesis)](https://doi.org/10.21268/20250509-0), I introduced a methodology for engineering safety in automated safety-critical systems through the explicit specification, design-time verification, and runtime validation of environment assumptions, integrated seamlessly into the software development lifecycle.
 
+[Download CV (PDF)](curriculum-vitae/Adina_Aniculaesei_CV.pdf)
+
 ---
 
 ## Research Projects
@@ -71,7 +73,7 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 
 - **A. Aniculaesei**.  
   *Engineering of Safety in Automated Safety-Critical Systems through Design-time Verification and Runtime Validation of Environment Assumptions.*  
-  PhD thesis, Technische Universität Clausthal, 2025.  
+  PhD thesis, Technische Universität Clausthal, 2024 (published 2025).  
   DOI: [10.21268/20250509-0](https://doi.org/10.21268/20250509-0)
 
 ---
