@@ -57,7 +57,7 @@ Verification of safety-critical automotive functions, including *speed estimatio
 
 ## Publications
 
-A complete publication list is available via [Google Scholar](https://scholar.google.com/citations?user=ZBBinKwAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Adina_Aniculaesei).
+A complete publication list is available via [Google Scholar](https://scholar.google.com/citations?user=ZBBinKwAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Adina_Aniculaesei), and [ORCID](https://orcid.org/0009-0001-9563-4000).
 
 ### 2025
 
