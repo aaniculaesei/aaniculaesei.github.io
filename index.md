@@ -254,7 +254,7 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 
 - **Johanna Edh**, **Aurora Veldhuis**  
   *AI-Powered Behavioral Analysis of Vehicle Communication to Strengthen API Security.*  
-  Master’s Thesis, Gothenburg, June 2025.
+  Master’s Thesis, Gothenburg University, June 2025.
 
 - **Anthony Okala**  
   *Development of an End-to-End Learning Approach for the Autonomous Control of Drones.*  
