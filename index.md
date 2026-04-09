@@ -63,7 +63,7 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 
 - **A. Aniculaesei**.
   *Regulatory Frameworks and Development Standards for Civilian Unmanned Aircraft Systems: From Regulatory Safety Intent to Development Lifecycles.*  
-  **Drones**, 10(4), 2026.  
+  **MDPI Drones**, 10(4), 2026.  
   DOI: [10.3390/drones10040271](https://doi.org/10.3390/drones10040271)
 
 ### 2025
