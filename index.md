@@ -59,6 +59,13 @@ Verification of safety-critical automotive functions, including *speed estimatio
 
 A complete publication list is available via [Google Scholar](https://scholar.google.com/citations?user=ZBBinKwAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Adina_Aniculaesei), and [ORCID](https://orcid.org/0009-0001-9563-4000).
 
+### 2026
+
+- **A. Aniculaesei**.
+  *Regulatory Frameworks and Development Standards for Civilian Unmanned Aircraft Systems: From Regulatory Safety Intent to Development Lifecycles.*  
+  **Drones**, 10(4), 2026.  
+  DOI: [10.3390/drones10040271](https://doi.org/10.3390/drones10040271)
+
 ### 2025
 
 - **A. Aniculaesei**, I. Aslam, M. Zhang, A. Buragohain, A. Vorwald, A. Rausch.  
