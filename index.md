@@ -15,9 +15,12 @@ University of Gothenburg and Chalmers University of Technology
 
 I am a Postdoctoral Researcher in the Formal Methods Unit at the Department of Computer Science and Engineering, University of Gothenburg and Chalmers University of Technology.
 
-My research focuses on the engineering of dependable autonomous and AI-enabled systems, combining software engineering and formal methods for safety-critical applications. I develop methods that integrate design-time formal verification, controller synthesis, model-based testing, and runtime assurance to improve the reliability and robustness of complex systems.
-
 In my [doctoral work (PhD thesis)](https://doi.org/10.21268/20250509-0), I introduced a methodology for engineering safety in automated safety-critical systems through the explicit specification, design-time verification, and runtime validation of environment assumptions, integrated seamlessly into the software development lifecycle.
+
+My research focuses on the engineering of dependable autonomous and AI-enabled systems, combining software engineering and formal methods for safety-critical applications. I develop methods that integrate design-time formal verification, controller synthesis, model-based testing, and runtime assurance to ensure reliable system behavior under uncertain and dynamic environments.
+
+My work aims to bridge the gap between formal guarantees and real-world system operation, with applications in autonomous vehicles and multi-robot systems.
+
 
 [Download CV (PDF)](/curriculum-vitae/Adina-Aniculaesei_CV_2026.pdf)
 
