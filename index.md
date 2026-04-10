@@ -322,6 +322,8 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 
 ### 2026
 
+- Reviewer, *Journal of Intelligent & Robotic Systems*
+- Reviewer, *Journal of Science of Computer Programming*
 - Reviewer, *Journal of Systems and Software*.
 
 ---
