@@ -328,6 +328,8 @@ A complete publication list is available via [Google Scholar](https://scholar.go
 - Reviewer, *Journal of Intelligent & Robotic Systems*
 - Reviewer, *Journal of Science of Computer Programming*
 - Reviewer, *Journal of Systems and Software*.
+- Reviewer, *International Symposium on Leveraging Applications of Formal Methods, Verification and Validation (ISoLA)*
+- Reviewer, *Scientific Reports*
 
 ---
 
@@ -341,8 +343,8 @@ A complete publication list is available via [Google Scholar](https://scholar.go
   *Autonomous Vehicles and Urban Evolution: Technological, Social and Environmental Perspectives*.
 - Reviewer, *Technologies* (MDPI), Special Issue:  
   *Emerging Paradigms in AI, Autonomous Systems, and Intelligent Technologies*.
-- Reviewer, *Leveraging Applications of Formal Methods, Verification and Validation*
-(REoCAS Colloquium in Honor of Rocco De Nicola).
+- Reviewer, *International Symposium on Leveraging Applications of Formal Methods, Verification and Validation (ISoLA)*
+(REoCAS Colloquium in Honor of Rocco De Nicola's 60th birthday).
 - Program Committee Member, *MoDeVVa @ MODELS 2025*.
 
 ---
